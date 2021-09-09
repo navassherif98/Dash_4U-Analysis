@@ -1,3 +1,5 @@
+![ViewCount](https://views.whatilearened.today/views/github/navassherif98/Dash_4U-Analysis.svg?cache=remove)
+
 # Dash_4U-Analysis
 
 ### Simple Dash App for Stock and Monthly Report Analysis of My Retail Shop(4U)
